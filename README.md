@@ -8,7 +8,7 @@ A Spring MVC web application for Employee Information Management with the follow
 
 Tech Stack:
 
-    Java 17
+    Java 8
     Spring Boot
     HTML
     Bootstrap
